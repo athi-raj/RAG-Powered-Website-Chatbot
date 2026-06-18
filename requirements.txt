@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+beautifulsoup4
+requests
+faiss-cpu
+sentence-transformers
+python-dotenv
+openai
+tiktoken
