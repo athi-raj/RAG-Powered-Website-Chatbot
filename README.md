@@ -3,7 +3,6 @@
 An intelligent chatbot that ingests any website URL, recursively crawls linked pages, and answers user queries using Retrieval-Augmented Generation (RAG).
 
 ## How It Works
-
 1. **Web Crawling** — Recursively scrapes a seed URL and all linked pages using BeautifulSoup / Scrapy
 2. **Content Processing** — Cleans HTML, chunks text, and tags metadata via LangChain / LlamaIndex
 3. **Vector Embedding** — Encodes chunks into dense vectors using Sentence Transformers
